@@ -74,7 +74,6 @@ gem 'gravatar_image_tag', github: 'mdeering/gravatar_image_tag'
 gem 'jquery-rails', '~> 4.3.1'
 gem 'local_time', '~> 2.0', '>= 2.0.1'
 gem 'mini_magick', '~> 4.8'
-gem 'name_of_person', '~> 1.0'
 gem 'omniauth-facebook', '~> 5.0'
 gem 'omniauth-github', '~> 1.3'
 gem 'omniauth-twitter', '~> 1.4'
@@ -82,3 +81,5 @@ gem 'sidekiq', '~> 5.1', '>= 5.1.3'
 gem 'sitemap_generator', '~> 6.0', '>= 6.0.1'
 gem 'webpacker', '~> 3.5', '>= 3.5.3'
 gem 'whenever', require: false
+
+gem 'name_of_person'
